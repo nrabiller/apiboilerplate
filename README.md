@@ -9,8 +9,8 @@ A boilerplate for Node.js web applications using express, mysql and typescript
 2. MySQL
 
 ## Installation
-1. Clone the project `git clone `.
-2. Install dependencies `npm i`.
+1. Clone the project `git clone `
+2. Install dependencies `npm i`
 3. Create a config.json file in src/config like the config.example.son file.
 4. Create a free test account on https://ethereal.email/ and copy your settings to the SMTP settings in the config file.
 
