@@ -5,7 +5,7 @@ A boilerplate for Node.js web applications using express, mysql and typescript
 # Quick Start
 
 ## Prerequisites
-1. NodeJs 14+ [link](https://nodejs.org/en/)
+1. [NodeJs 14+] (https://nodejs.org/en/)
 2. MySQL
 
 ## Installation
