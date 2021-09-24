@@ -1,0 +1,5 @@
+node_modules/
+dist/
+coverage/
+src/config/config.json
+package-lock.json

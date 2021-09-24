@@ -1,0 +1,36 @@
+{
+    "port": 4000,
+    "jwt_secret": "secret",
+    "database": {
+        "development": {
+            "host": "127.0.0.1",
+            "port": 3306,
+            "user": "developmentuser",
+            "password": "developmentpassword",
+            "dbname": "developmentdb"
+        },
+        "test": {
+            "host": "127.0.0.1",
+            "port": 3306,
+            "user": "testuser",
+            "password": "testpassword",
+            "dbname": "testdb"
+        },
+        "prod": {
+            "host": "127.0.0.1",
+            "port": 3306,
+            "user": "produser",
+            "password": "prodpassword",
+            "dbname": "proddb"
+        }
+    },
+    "emailFrom": "",
+    "smtpOptions": {
+        "host": "[]",
+        "port": 587,
+        "auth": {
+            "user": "",
+            "pass": ""
+        }
+    }
+}
